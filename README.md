@@ -1,3 +1,4 @@
-# yeqing.github.io
+# SchemToSchematic
+Convert the new 1.13+ .schem files to the legacy .schematic files
 
-112121
+Use this tool [here](https://puregero.github.io/SchemToSchematic/)
